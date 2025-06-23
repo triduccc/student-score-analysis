@@ -63,7 +63,7 @@ def main():
                 st.image(img, width=300)
                 st.markdown("Grade distribution chart")
 
-if __name__ == "main":
+if __name__ == "__main__":
     main()
 
 
